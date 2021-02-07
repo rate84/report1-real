@@ -15,7 +15,7 @@
  * ジャンプワイヤー ×2
 # 事前準備
  
- * ubuntuのゼットアップは以下を参考にした．
+ * ubuntuのセットアップは以下を参考にした．
  * https://ryuichiueda.github.io/robosys2020/lesson1_introduction.html
  
 # デバイスの作成
